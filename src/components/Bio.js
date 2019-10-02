@@ -23,8 +23,8 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          Personal blog by Danny Denenberg. Award winning actor🎭, singer🎤, and
-          musician🎹--some programming on the side 🎉🥑
+          Award winning actor🎭, singer🎤, and musician🎹--some programming on
+          the side 🎉🥑
         </p>
       </div>
     );
