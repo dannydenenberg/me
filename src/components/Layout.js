@@ -61,7 +61,7 @@ class Layout extends React.Component {
             }}
             to={'/'}
           >
-            {title}
+            Danny Denenberg
           </Link>
         </h3>
       );
