@@ -4,8 +4,6 @@ date: '2019-10-04'
 spoiler: You. Must. Do. This.
 ---
 
-# A Guide to Password Hashing: How to Keep your Database Safe
-
 Hashing algorithms are one-way functions. They take any string and turn it into a fixed-length “fingerprint” that is unable to be reversed. This means that if the data is compromised, the hacker<!--more--> cannot get the user’s passwords if they were hashed because at no point were they ever stored on the drive without being in their hashed form.
 
 Websites using hashing typically have this workflow:
